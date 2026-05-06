@@ -7,15 +7,14 @@ body {
 body {
   background: 
     linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url("https://images.unsplash.com/photo-1563206767-5b18f218e8de?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    url("https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=1200");
 
-  background-size: contain;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  background-position: top;
-  
+
   color: #00ff00;
 }
-
 .title {
   color: #00e600;
   text-shadow: 0 0 10px #ff0033;
