@@ -18,19 +18,19 @@ body {
 
   background-repeat: no-repeat;
 
-  color: #4d88ff;
+  color: #e60000;
 
   min-height: 100vh;
 
 }
 .title {
-  color: #4d88ff;
+  color: #e60000;
   font-size: 42px;
   text-align: center;
   font-family: monospace;
 
   text-shadow:
-    0 0 5px #4d88ff,
-    0 0 10px #4d88ff,
-    0 0 20px #4d88ff;
+    0 0 5px #e60000,
+    0 0 10px #e60000,
+    0 0 20px #e60000;
 }
